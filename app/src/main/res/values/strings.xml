@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="save">Save</string>
+    <string name="alert">You can add 500 characters only!</string>
+    <string name="write_your_note_here">Write your note here!</string>
+    <string name="enter_your_note_name">Enter your note Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="save_note">Save Note</string>
+    <string name="note_saved_sucessfully">Note saved successfully!</string>
+    <string name="key0">key0</string>
+    <string name="key1">key1</string>
+    <string name="ok">OK</string>
+    <string name="clear">Clear</string>
+    <string name="no_notes_found">No Notes found!</string>
+</resources>
